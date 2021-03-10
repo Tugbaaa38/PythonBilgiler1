@@ -1,7 +1,7 @@
 #python da bazi islemler ve bilgiler
 
 #********************************************Kucuk bir tavsiye*******************************************
-#Degisken tanimlamasi yaparken dikkat etmemiz bazi seyler vardir.
+#Degisken tanimlamasi yaparken dikkat etmemiz gereken bazi seyler vardir.
 #Ornegin bir degisken tanimlarken anlamli ifadeler kullanmak daha hos olacaktir.
 #Herhangi bir islem yapacagimiz zaman sayi tanimlamasinda s1 yerine sayi1 demek kodu daha okunakli kilar.
 #camelCase yontemi cok kullanilir.Bu yontem de kelimenin ilk harfi kucuk, diger kelimelerin ilk harfleri buyuk olacak sekilde tanimlama yapariz.
